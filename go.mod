@@ -6,7 +6,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.0 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354 // indirect
-	github.com/emicklei/go-restful v2.7.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/envoyproxy/go-control-plane v0.9.6-0.20200529035633-fc42e08917e9
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-openapi/jsonpointer v0.0.0-20180322222829-3a0015ad55fa // indirect
